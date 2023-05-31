@@ -1,0 +1,24 @@
+body{
+    background-color: #025464;
+    height: 100%;
+    width: 100%;
+}
+#startButton{
+    align-items: center;
+    width: 250px;
+    height: 60px;
+    border-radius: 5px;
+    font-size: large;
+}
+.container{
+    margin: auto;
+    padding-top: 15%;
+    padding-left: 30%;
+}
+#startButton:hover{
+    background-color: aquamarine;
+}
+#questionContainer{
+    
+    color: black;
+}
